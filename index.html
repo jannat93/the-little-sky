@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Last Sky 🌌</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="camera-container">
+    <video id="camera" autoplay playsinline></video>
+    <canvas id="sky-overlay"></canvas>
+  </div>
+
+  <div id="controls">
+    <button id="start-btn">🌌 Start Sky AR</button>
+  </div>
+
+  <!-- Astronomy Engine for Moon position -->
+  <script src="https://cdn.jsdelivr.net/npm/astronomy-engine/astronomy.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

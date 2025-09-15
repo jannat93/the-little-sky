@@ -1,0 +1,10 @@
+[
+  { "name": "Sirius", "ra": 101.2875, "dec": -16.7161, "magnitude": -1.46 },
+  { "name": "Canopus", "ra": 95.9879, "dec": -52.6957, "magnitude": -0.74 },
+  { "name": "Arcturus", "ra": 213.9154, "dec": 19.1825, "magnitude": -0.05 },
+  { "name": "Vega", "ra": 279.2347, "dec": 38.7837, "magnitude": 0.03 },
+  { "name": "Capella", "ra": 79.1723, "dec": 45.9979, "magnitude": 0.08 },
+  { "name": "Rigel", "ra": 78.6345, "dec": -8.2016, "magnitude": 0.12 },
+  { "name": "Procyon", "ra": 114.8255, "dec": 5.2250, "magnitude": 0.34 },
+  { "name": "Betelgeuse", "ra": 88.7929, "dec": 7.4071, "magnitude": 0.42 }
+]
